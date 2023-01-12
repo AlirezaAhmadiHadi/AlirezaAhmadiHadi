@@ -7,6 +7,7 @@
 ##
 
 <div align="center">
+<a href="https://twitter.com/AlirezaHadi1380" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_.alirziam._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://t.me/Alireza_ahmadihadi" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23229ED9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://gitlab.com/AlirezaAhmadiHadi" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%236666C4?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>
