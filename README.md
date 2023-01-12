@@ -32,5 +32,7 @@
 [![Alireza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlirezaAhmadiHadi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlirezaAhmadiHadi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AlirezaAhmadiHadi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 </div>
