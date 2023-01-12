@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Alireza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlirezaAhmadiHadi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **AlirezaAhmadiHadi/AlirezaAhmadiHadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?AlirezaAhmadiHadi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
