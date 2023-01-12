@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://www.instagram.com/_.alirziam._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://t.me/Alireza_ahmadihadi" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23E4405F?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/Alireza_ahmadihadi" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23229ED9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 [![Alireza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlirezaAhmadiHadi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
