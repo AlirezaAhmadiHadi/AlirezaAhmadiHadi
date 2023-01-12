@@ -8,6 +8,7 @@
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 [![Alireza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlirezaAhmadiHadi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
