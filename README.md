@@ -14,6 +14,7 @@
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 </div>
 
 [![Alireza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlirezaAhmadiHadi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
