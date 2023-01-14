@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Alireza... 
 
-- 🔭 I’m currently working on mobile applications 👻
+- 🔭 I’m currently working on mobile applications 📱
 - 🌱 I’m currently learning Flutter 👨🏻‍💻
 ##
 
