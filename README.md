@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on mobile applications 👻
 - 🌱 I’m currently learning Flutter 👨🏻‍💻
-- ⚡ Mylife === Danger 😜✌🏻
-
 ##
 
 <div align="center">
