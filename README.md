@@ -28,6 +28,7 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.cdnlogo.com/logos/b/67/blazor.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg">
 </div>
 
 ##
