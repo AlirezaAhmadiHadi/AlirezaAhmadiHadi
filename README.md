@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Alireza... 
 
-- 🔭 I’m currently working on mobile applications 📱
-- 🌱 I’m currently learning Flutter 👨🏻‍💻
+- 🔭 I’m currently working on .net :)
+- 🌱 I’m currently learning Blazor 👨🏻‍💻
 ##
 
 <div align="center">
@@ -27,6 +27,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.cdnlogo.com/logos/b/67/blazor.svg">
 </div>
 
 ##
