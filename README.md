@@ -20,6 +20,7 @@
   
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg">
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
